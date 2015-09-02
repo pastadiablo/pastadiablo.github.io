@@ -1,0 +1,738 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"For",
+				"forEach"
+			],
+			[
+				"FilteredObjec",
+				"FilteredTotalObjects"
+			],
+			[
+				"recurrin",
+				"recurring_event_id"
+			],
+			[
+				"instan",
+				"contactsInstantiated"
+			],
+			[
+				"loadmor",
+				"loadMoreTags"
+			],
+			[
+				"AllFiltere",
+				"AllFilteredReportContacts"
+			],
+			[
+				"allfiltere",
+				"AllFilteredReportTags"
+			],
+			[
+				"Allfiltered",
+				"AllFilteredReportTasks"
+			],
+			[
+				"FilteredReportC",
+				"FilteredReportContactsDisplay"
+			],
+			[
+				"vaidati",
+				"eventValidation"
+			],
+			[
+				"TotalEventsFilter",
+				"TotalEventsFilterFilter"
+			],
+			[
+				"U",
+				"updateEventList"
+			],
+			[
+				"tasks",
+				"tasks"
+			],
+			[
+				"orpha",
+				"orphansPromise"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"birt",
+				"birthdayIndex"
+			],
+			[
+				"end_dat",
+				"end_datetime"
+			],
+			[
+				"filt",
+				"filtered_list"
+			],
+			[
+				"temla",
+				"templateUrl"
+			],
+			[
+				"Routi",
+				"RoutingModule"
+			],
+			[
+				"con",
+				"contact_id"
+			],
+			[
+				"all",
+				"allContacts"
+			],
+			[
+				"Rest",
+				"RestangularProvider"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<head>\n  <meta charset=\"utf-8\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>\n  <meta name=\"description\" content=\"{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}\">\n\n  <link rel=\"stylesheet\" href=\"{{ \"/css/main.css\" | prepend: site.baseurl }}\">\n  <link rel=\"canonical\" href=\"{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}\">\n  <link rel=\"alternate\" type=\"application/rss+xml\" title=\"{{ site.title }}\" href=\"{{ \"/feed.xml\" | prepend: site.baseurl | prepend: site.url }}\" />\n</head>\n\n",
+			"file": "_includes/head.html",
+			"file_size": 770,
+			"file_write_time": 130845147106590056,
+			"settings":
+			{
+				"buffer_size": 771,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_base.scss",
+			"settings":
+			{
+				"buffer_size": 2746,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"jekyll",
+				"Jekyll: Promote draft to post..."
+			],
+			[
+				"jek",
+				"Jekyll: Insert current date"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_includes",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css"
+	],
+	"file_history":
+	[
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pastadiablo.github.io.sublime-project",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/post.html",
+		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/test-draft.md",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/2015-08-27-test-draft.md",
+		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Program Files/Logitech Gaming Software/Resources/G930/Manifest/Device_Manifest.xml",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/.gitignore",
+		"/Z/cygwin/home/pastadiablo/.bashrc",
+		"/C/Users/pastadiablo/Steam Library (Fast)/steamapps/common/Kerbal Space Program/CKAN/installed-default.ckan",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/Curator/.gitignore",
+		"/C/Users/pastadiablo/Steam Library (Fast)/steamapps/common/Kerbal Space Program/GameData/SETIctt/MM-TechTree/SETI-TechTree-SQUAD.cfg",
+		"/C/Users/pastadiablo/Steam Library (Fast)/steamapps/common/Kerbal Space Program/GameData/SETIctt/MM-PartModding/SETI-PartMod-SQUAD-Science.cfg",
+		"/C/Users/pastadiablo/Steam Library (Fast)/steamapps/common/Kerbal Space Program/GameData/ModuleManager.TechTree",
+		"/C/Users/pastadiablo/Steam Library (Fast)/steamapps/common/Kerbal Space Program/GameData/CommunityTechTree/Tree/CommunityTechTree.cfg",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/Bootstrapped Encounter Calculator/js/app.js",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/Bootstrapped Encounter Calculator/index.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/Bootstrapped Encounter Calculator/js/angular.min.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Contacts/ContactsModule.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/contacts/contact.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/contacts/contacts.html",
+		"/Z/Users/pastadiablo/Documents/Skylines-ExtendedPublicTransport/ExtendedPublicTransportUI.sln",
+		"/Z/Users/pastadiablo/Documents/Skylines-ExtendedPublicTransport/ExtendedPublicTransportUI/ExtendedPublicTransportUI.csproj",
+		"/C/Users/pastadiablo/Steam Library (Fast)/steamapps/common/Kerbal Space Program/saves/Ironman Career/persistent.sfs",
+		"/C/Users/pastadiablo/Steam Library (Fast)/steamapps/common/Kerbal Space Program/saves/0_90 - Hard Realism/persistent.sfs",
+		"/C/Users/pastadiablo/Steam Library (Fast)/steamapps/common/Kerbal Space Program/saves/0_90 - Hard Realism/quicksave.sfs",
+		"/C/Users/pastadiablo/Steam Library (Fast)/steamapps/common/Kerbal Space Program/saves/0_90 - Hard Realism/quicksave #2.sfs",
+		"/C/Users/pastadiablo/Steam Library (Fast)/steamapps/common/Kerbal Space Program/saves/0_90 - Hard Realism/quicksave #1.sfs",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/app.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Routing.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Reports/ReportsModule.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/index.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/create.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/orphans.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Contacts/ContactServicesModule.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/login.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/calendar.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/fonts/open-sans",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/settings.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/feedback.php",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/createAssociateTemplate.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/reports/reports.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Tasks/TasksModule.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Tags/TagsModule.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Events/EventsModule.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Dashboard/DashboardModule.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/dashboard/dashboard.html",
+		"/Z/Users/pastadiablo/Desktop/Prod Build 7/Prod Build 7",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/settings.cfg",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/CommunityResourcePack/Karbonite/Planetary_Karbonite.cfg",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/2014-10-16_142722/output_log.txt",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/MKS/MKS_Resources.cfg",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/Karbonite/Parts/KA_ParticleCollector_250_01/KA_ParticleCollector_250_01.cfg",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/CommunityResourcePack/Karbonite/Atmospheric_Karbonite.cfg",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/MKS_OKS_RT2.cfg",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/Karbonite.version",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/Karbonite/ATM.cfg",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/create.html",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/saves/pastadiablo - Hardcore Realism/Ships/SPH/Wisdom XI.craft",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/saves/pastadiablo - Hardcore Realism/persistent.sfs",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/SCANsat/Resources/ScienceDefs.cfg",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/SCANsat/Resources/SCANresource.cfg",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/SCANsat/Parts/Scanner 32/part.cfg",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/SCANsat/Parts/Scanner 8/part.cfg",
+		"/Z/Users/pastadiablo/Downloads/B9_Aerospace_Pack-R5.2.5/README.md",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/Karbonite/Parts/KA_DetectionArray_01/KA_DetectionArray_01.cfg",
+		"/Z/Users/pastadiablo/Downloads/MKS_0.21.2/GameData/Firespitter/Firespitter.version",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/Engineer/KerbalEngineerRedux.version",
+		"/Z/Users/pastadiablo/Desktop/Dan Magnusson.doc",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/ActiveTextureManagement/config.cfg",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/events/event.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/events/orphanEvents.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/events/events.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/app-filters.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Events/EventServicesModule.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/styles/style.css",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/tasks/task.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/tags/tag.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/events/event-index.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/reports/reportsEvents.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/orphans.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/events/orphanEvent.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Tags/TagServicesModule.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/search.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/app-globals.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/filters.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/view.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/tasks/orphanTask.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/tags/orphanTag.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/settings.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Tasks/TaskServicesModule.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/events.js",
+		"/Z/Users/pastadiablo/Desktop/dashboard.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/reports/reportsTasks.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/tasks/tasks.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/tasks/orphanTasks.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/tags/orphanTags.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/admin.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/reports/reportsContacts.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/search.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/libs/ng-infinite-scroll.min.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/tags/tags.html",
+		"/Z/Users/pastadiablo/Documents/ige_prototype/examples/13.6-texturemaps-load-tiled/client.js",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/Curator/curator_building_test/client.js",
+		"/Z/Users/pastadiablo/Documents/ige_prototype/examples/13.6-texturemaps-load-tiled/server.js",
+		"/Z/Users/pastadiablo/Documents/ige_prototype/examples/13.6-texturemaps-load-tiled/index.js",
+		"/Z/Users/pastadiablo/Documents/ige_prototype/examples/13.6-texturemaps-load-tiled/index.html",
+		"/Z/Users/pastadiablo/Pictures/Black Marble.jpg",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/Curator/curator_building_test/index.js",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/Curator/curator_building_test/readme.md",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/Curator/curator_building_test/index.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/Curator/curator_building_test/ClientConfig.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/contacts/contact-index.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/feedback.html",
+		"/Z/Users/pastadiablo/Desktop/login.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/calendar.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/admin.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/libs/fullcalendar.js",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/create/createIndex.html",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/barbarian-time-cop-vita-prototype/code/Assets/Scripts/Entity/AbstractEntity.cs",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/barbarian-time-cop-vita-prototype/code/Assets/Scripts/Entity/Player/State/AbstractPlayerState.cs",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/barbarian-time-cop-vita-prototype/code/Assets/Scripts/Entity/Player/Component/PlayerJumpComponent.cs",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/barbarian-time-cop-vita-prototype/code/Assets/Scripts/Entity/Player/State/PlayerFallState.cs",
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/barbarian-time-cop-vita-prototype/code/Assets/Scripts/Entity/Player/State/PlayerRunState.cs"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"Z:\\Users\\pastadiablo\\Documents\\SRRN Git Repos\\daywon-frontend\\angularApp",
+			"Z:\\Program Files (x86)\\Steam\\steamapps\\common\\Kerbal Space Program",
+			"Z:\\Users\\pastadiablo\\Documents\\SRRN Git Repos\\daywon-frontend\\angularApp",
+			"Z:\\Users\\pastadiablo\\Documents\\SRRN Git Repos\\barbarian-time-cop-vita-prototype\\code\\Assets\\Scripts",
+			"Z:\\Users\\pastadiablo\\Documents\\SRRN Git Repos\\barbarian-time-cop-vita-prototype\\",
+			"Z:\\Users\\pastadiablo\\Documents\\SRRN Git Repos\\daywon-frontend\\angularApp\\",
+			"Z:\\Users\\pastadiablo\\Documents\\SRRN Git Repos\\daywon-frontend\\angularApp\\img",
+			"Z:\\Users\\pastadiablo\\Documents\\SRRN Git Repos\\daywon-frontend\\angularApp\\",
+			"Z:\\Users\\pastadiablo\\Documents\\SRRN Git Repos\\daywon-frontend\\app\\scripts\\libs",
+			"daywon-backend/",
+			"daywon-backend",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"thermometer",
+			"1/8",
+			":",
+			": ",
+			".00",
+			"0000",
+			"000",
+			"00",
+			"EncounterGeneratorApp",
+			"Gilner",
+			"Kirfrid",
+			"Ferden",
+			"Doney",
+			"Kirk",
+			"Alddard",
+			"Herlie",
+			"Matble",
+			"Thomrick",
+			"Geofvey",
+			"Gilner",
+			"Wehrny",
+			"calsel",
+			"kerbo",
+			"calsel",
+			"landing",
+			"fired",
+			"jeb",
+			"JEB",
+			"jeb",
+			"dead",
+			"jeb",
+			"google",
+			"query_string",
+			"Kelley Hanan-Parlette",
+			"removeduplicate",
+			"/daywon",
+			"daywon/",
+			"staging",
+			"<<<<<<<<<",
+			"$scope.globalUserSettings",
+			"dashboard",
+			"karbonite",
+			"actiongroup",
+			"wisdom XI",
+			"Mk. IV",
+			"MK. IV",
+			"endsAfter",
+			"endsAfterOccurrences",
+			"event cannot stop",
+			"combineAll",
+			"loadOrphans",
+			"-prod",
+			"<<<<",
+			"removeDuplicateEvents",
+			"removeduplicateEvents",
+			"orphaneventfilter",
+			"var",
+			"saving",
+			"daywon/",
+			"-staging",
+			"daywon/",
+			"-staging",
+			"delete",
+			"ccurence",
+			"occurence",
+			".delete",
+			"delete",
+			"newEvent.recurrence",
+			"ends_after",
+			"frequency",
+			"ends_after",
+			"All",
+			"Unique",
+			"closed",
+			"initializeReports",
+			"action",
+			"task.title",
+			"uniqueEvents",
+			"AddToRecentObjects",
+			"events",
+			"closedEvents:events",
+			"openEvents:events",
+			"<<<<",
+			"event.$save",
+			"apply_to_all",
+			"FilteredOrphan",
+			"removeDup",
+			"events",
+			"FilteredOrphanEvents",
+			"updateOrphanEventList",
+			"daywon/",
+			"-prod",
+			"prod",
+			"All",
+			"$scope.UniqueEvents",
+			"AddToRecentObjects",
+			"allReady",
+			"$scope.allReady",
+			"typeaheadfilter",
+			"FilteredEvents",
+			"searchFilter",
+			"updateEventList",
+			"$scope.recurrence",
+			"REF",
+			"recurrence",
+			"RRULE",
+			"dailyRecurrenceRate",
+			"dailyRecurrenceDate",
+			"create",
+			"provider",
+			"closedTasks",
+			"recurrenceTitle",
+			"$scope.events",
+			"FiltersModule",
+			"app",
+			"FilteredTotalObjects",
+			"contactsInstantiated",
+			"updateEventList",
+			"FilteredEvents",
+			"FilteredTasks",
+			"allobject",
+			"allObjects",
+			"allObjects.events",
+			"$scope.events.",
+			"$scope.events ",
+			"checkEvents",
+			"in events",
+			"$scope.events"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ccurrence",
+			"AllEvents",
+			"uniqueEvents",
+			"app",
+			"FiltersModule",
+			"AllUniqueObjects",
+			"$scope.contactsInstantiated",
+			"$scope.eventsInstantiated",
+			"$scope.tasksInstantiated",
+			"$scope.tagsInstantiated",
+			"extractAssociatedDates",
+			"ShowMe",
+			"",
+			"All",
+			"AllReportTasks",
+			"AllReportEvents",
+			"AllReportContacts",
+			"-prod",
+			"$scope.saveTask()",
+			"$scope.saveTag()",
+			"$scope.saveEvent()",
+			"$scope.saveContact()",
+			"Schedule.filter",
+			"showFilter.tags",
+			"showFilter.tasks",
+			"showFilter.events",
+			"showFilter.contacts",
+			"accordionOpen",
+			"FilteredReport",
+			"tag.contacts",
+			"$scope.valid)",
+			"$scope.valid ",
+			"$scope.valid",
+			"-prod",
+			"https://daywon",
+			"prod",
+			"Her ",
+			"She ",
+			"Hundreds of years ago, the world ended.\nSlowly the stars fell from the sky, twisting and warping the world wherever they landed.  Placid and friendly creatures turned feral, and wild creatures became monstrous abominations.  Good men and women turned wicked, and the wicked became dark creatures fulfilling a malevolent purpose.  The oceans roiled and seethed in rage, giant creatures rising from the depths to destroy and devour any who dare disturb its surface.  And once the stars had all fallen, a dark shroud covered the sky, blocking all light from the moon & the sun.  It was the worlds darkest hour.\nSlowly, those remaining untouched or only mildly brushed by the Taint made their way through the world.  No place was safe to settle, as the Stars and Taint were everywhere.  However, word started to spread of a place that had been spared, a place for the now wandering races of the world to call home.  Over time most of the worlds population made their way to this bastion against the darkness, a place known only as The City.  Its name before the Fall has been lost to the wastes of time and bureaucracy and neglect.\nThe City became the largest of its kind ever known to this world.  Sprawling outwards for miles, slums larger than the largest cities before the Fall, millions upon millions of souls, teeming and seething in this vast metropolis.  Holding rule over it all was the Council, a clandestine group of the elite, trying to hold everything together.  Over time however, their desperation led to what they felt was a necessary despotism.  With factions upon factions upon factions all vying for control, the Council was able to maintain its hold on the populace for many years, until a great uprising swept The City, toppling the old institution and leading to an extended civil war, known only as the Great Strife.\nThe city fought itself, with no clear leader appearing.  This anarchy lasted for many years, until the rise of the Empress, blessed be her name.  Born into the war and darkness, with the strength of a thousand suns, and the vision of a thousand moons she forged her way with fire and blood and steel from the slums of the city, cutting a path through her enemies to the very heart of the conflict.  Through force, and trickery, and cunning, and wit she slew, subjugated and destroyed her enemies.  All fled before her fiery wrath.  Many have whispered that she was an avatar of the gods themselves, finally stepping forth to save the world.  Heretics have dared to call her a demon, sent to take advantage of our darkest hour.  \nFor many years the Empress held the city together through pure strength of will and character.  But over time, even legends begin to fade, and so she started to age.  In one last effort, she gathered her closest magical advisors, representatives of the arcane & divine.  Combining their efforts in a vast divination, they were able to see the beginning of a path to save the world.  Announcing to the population of The City, which was at this point in time, a majority of the population of the world, this news, the Empress hoped that some brave souls would embark on a quest to follow the path seen in the vision.  A mass exodus of adventurers left the city to follow The Path, most to never return.  Over the years a few did trickle back, defeated, or twisted and warped by the Taint.  However, no word came of anyone succeeding even at that initial trial.  \nNear the end of her life, the Empress despaired that she could not save her realm and that the souls of the world would live forever in darkness.  She codified a set of laws and governance to continue The City running after she was gone, for she knew that none would be capable enough to take her place as the sole beacon of light.  Her sworn men and women, devoted to her in every way, vowed to institute this government upon her passing, although many refused to believe she would go.  After all, how could a Goddess die?  For that is what she had become to many in The City.\nAs she lay on her deathbed, slowly slipping away, her family and closest friends around her, she claimed she saw a bright light, and asked what it was.  She said it was brighter than anything she had ever seen, a lightness that warmed her soul.  And then she passed.\nThe entire City mourned, wracked with the loss of the soul who had held them together for so many years.  Yet even as the City heaved with grief, serpents began to rise within its depths.  Remnants of the factions from the Great Strife began to raise their heads, nipping at the heels of the new government.  Beset on all sides by enemies once thought long defeated, things looked bleak for the souls of the City.  The darkness around them seemed to press ever closer as the darkness within grew.\nAnd then, just as the empress had foreseen, in complete and utter silence and without presumption, the Shroud disappeared.  In the sky, hanging above the City, was a sight foreign to many, for it had been hundreds of years since anyone had seen the sun and stars and moon.  However, somehow the sight was foreign even to those who had seen the sun and stars and moon.  Something had changed.  All of the old constellations were gone from the sky – these were new stars.  And now, instead of the one white moon that the old texts spoke of, there were 3 moons, one red, one yellow, and one that appeared covered in blue and green, with flecks of white slowly moving over its surface.\nIndeed, the saving of the world came at a great cost to its inhabitants.  While the disappearance of the Shroud was oddly silent and without fanfare, millions cried out in pain as the world righted itself.  Whether it was the Shroud exacting vengeance on the world, or perhaps a necessary sacrifice for the world to rid itself of the Shroud, the souls that were present for the Lifting now all bear the Mark, an affliction that will forever haunt them as those who once lived in the darkness.\nDespite these oddities, it was without a doubt that the world had been saved.  The Taint from the fallen stars had vastly lessened in power, and was slowly receding from the world.  In a vast explosion, the souls of the City began to expand outward, reclaiming their lost homes.  The internal strife slowly dissolved as dissatisfied factions simply left to find themselves a new place in the world.  A great time of exploration and renewal was at hand.  \nIt is into THIS world, that you are now adventuring.  It has been 27 years since the Lifting.  Those of you born since then know only a world of light, and can’t fathom what life was like under the Shroud.  Those of you born in the Shroud know only a world of darkness, and will carry that Mark upon your soul for the rest of your life.  And those few of you born before the Fall marvel that the world has changed so much during the time of the Shroud, and wonder how the world will change in this new era.  For whatever reason, you have left the City, or perhaps if you are Lightborn, you have never seen the City.  You find yourselves in the town of Nevarre, a place that sits at a crossroads of two ancient highways.  It is a small town, but bustling with activity as people travel to Nevarre at the outskirts of the Empires influence before forging their own way in the world.  To the East lies the City, a slowly deflating metropolis that still exerts great power and influence on the souls of the world.  To the North, West and South, lie mystery and adventure.  With the wind at your back and a spring in your step, you set out into this world that is somehow both new and ancient at the same time.  But first, you decide to swing by a nearby tavern to see if you can scrounge up a few coins to help fund your expedition… \n",
+			"tag",
+			"Tag",
+			"Task",
+			"task",
+			"Tag",
+			"tag",
+			"Task",
+			"OrphansModule.controller('OrphanTaskController', ['$scope', '$resource', '$stateParams', '$state', 'taskService',\n	function($scope, $resource, $stateParams, $state, taskService) {\n\n		$scope.orphansPromise.$promise.then(function(data) {\n\n			for(var i = 0; i < data.orphans[0].tasks.length; i++)\n			{\n				if(data.orphans[0].tasks[i].id ==  $stateParams['task_id'])\n				{\n					$scope.task = data.orphans[0].tasks[i]; \n					console.log($scope.task);\n					break;		\n				}\n			}\n		});		\n\n		$scope.associatedObjects = [];\n\n		$scope.onSelect = function ($item, $model, $label) {\n\n			$scope.associatedObjects.push($model);\n		}\n\n		$scope.removeObject = function(object) {\n			var index = $scope.associatedObjects.indexOf(object);\n\n			if(index > -1)\n				$scope.associatedObjects.splice(index, 1);\n		}\n\n		$scope.submitAssociations = function() {\n\n			taskService.Event.get({task_id: $scope.task.id}, function(data) {\n				\n				console.log(data);\n				$scope.updatedEvent = data;\n\n				for(var i = 0; i < $scope.associatedObjects.length; i++)\n				{\n					if($scope.associatedObjects[i].type == \"contact\")\n						$scope.updatedEvent.contacts.push($scope.associatedObjects[i]);\n					if($scope.associatedObjects[i].type == \"task\")\n						$scope.updatedEvent.tasks.push($scope.associatedObjects[i]);\n					if($scope.associatedObjects[i].type == \"tag\")\n						$scope.updatedEvent.tags.push($scope.associatedObjects[i]);\n				}\n\n				$scope.updatedEvent.$save();\n\n				var index = $scope.taskOrphans.indexOf($scope.task);\n\n				if(index > -1)\n					$scope.taskOrphans.splice(index, 1);\n\n				$state.go('orphanEvents.index');\n			});\n			\n		};\n\n	}]);",
+			"task"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								561,
+								561
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+							],
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								771,
+								771
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_sass/_base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pastadiablo.github.io.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 357.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

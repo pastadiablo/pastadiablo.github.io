@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+
+	"settings":
+    {
+        "Jekyll":
+        {
+            "posts_path": "Z:\\Users\\pastadiablo\\Documents\\Personal Projects\\pastadiablo.github.io\\_posts",
+            "drafts_path": "Z:\\Users\\pastadiablo\\Documents\\Personal Projects\\pastadiablo.github.io\\_drafts"
+        }
+    }
+}
