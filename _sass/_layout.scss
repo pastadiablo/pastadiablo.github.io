@@ -175,6 +175,10 @@
 
     > li {
         margin-bottom: $spacing-unit;
+
+        > p {
+            margin-bottom: 0px;
+        }
     }
 }
 
@@ -186,6 +190,11 @@
 .post-link {
     display: block;
     font-size: 24px;
+}
+
+.post-read-more {
+    font-size: $small-font-size;
+    margin-bottom: 15px;
 }
 
 

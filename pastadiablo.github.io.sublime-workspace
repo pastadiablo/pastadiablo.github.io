@@ -99,33 +99,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 561,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "<head>\n  <meta charset=\"utf-8\">\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>\n  <meta name=\"description\" content=\"{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}\">\n\n  <link rel=\"stylesheet\" href=\"{{ \"/css/main.css\" | prepend: site.baseurl }}\">\n  <link rel=\"canonical\" href=\"{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}\">\n  <link rel=\"alternate\" type=\"application/rss+xml\" title=\"{{ site.title }}\" href=\"{{ \"/feed.xml\" | prepend: site.baseurl | prepend: site.url }}\" />\n</head>\n\n",
-			"file": "_includes/head.html",
-			"file_size": 770,
-			"file_write_time": 130845147106590056,
-			"settings":
-			{
-				"buffer_size": 771,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_sass/_base.scss",
-			"settings":
-			{
-				"buffer_size": 2746,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -197,17 +170,18 @@
 	},
 	"expanded_folders":
 	[
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_includes",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css"
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts"
 	],
 	"file_history":
 	[
+		"/Z/Users/pastadiablo/Downloads/CasperNorthbound (1).gpx",
+		"/Z/Users/pastadiablo/Downloads/I80Eastbound.gpx",
+		"/Z/Users/pastadiablo/Downloads/CasperNorthbound.gpx",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_config.yml",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_includes/head.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/_base.scss",
+		"/C/Users/pastadiablo/SkyDrive/Documents/DnD/Test Crawl - Floor 1.tmx",
+		"/C/Users/pastadiablo/SkyDrive/Documents/DnD/Campaigns/Temples of the Wyrm/Ziggurat A/Level 1.tmx",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pastadiablo.github.io.sublime-project",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/post.html",
 		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
@@ -327,15 +301,7 @@
 		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/contacts/contact-index.html",
 		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/feedback.html",
 		"/Z/Users/pastadiablo/Desktop/login.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/calendar.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/admin.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/libs/fullcalendar.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/create/createIndex.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/barbarian-time-cop-vita-prototype/code/Assets/Scripts/Entity/AbstractEntity.cs",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/barbarian-time-cop-vita-prototype/code/Assets/Scripts/Entity/Player/State/AbstractPlayerState.cs",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/barbarian-time-cop-vita-prototype/code/Assets/Scripts/Entity/Player/Component/PlayerJumpComponent.cs",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/barbarian-time-cop-vita-prototype/code/Assets/Scripts/Entity/Player/State/PlayerFallState.cs",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/barbarian-time-cop-vita-prototype/code/Assets/Scripts/Entity/Player/State/PlayerRunState.cs"
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/calendar.html"
 	],
 	"find":
 	{
@@ -365,6 +331,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"trkpt",
 			"thermometer",
 			"1/8",
 			":",
@@ -491,8 +458,7 @@
 			"$scope.events.",
 			"$scope.events ",
 			"checkEvents",
-			"in events",
-			"$scope.events"
+			"in events"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -500,6 +466,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"wpt",
 			"ccurrence",
 			"AllEvents",
 			"uniqueEvents",
@@ -558,98 +525,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 561,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								561,
-								561
-							]
-						],
-						"settings":
-						{
-							"rulers":
-							[
-							],
-							"syntax": "Packages/YAML/YAML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_includes/head.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 771,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								771,
-								771
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_sass/_base.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2746,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								283,
-								283
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 540.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -692,7 +569,7 @@
 	"project": "pastadiablo.github.io.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
