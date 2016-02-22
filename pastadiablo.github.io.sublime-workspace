@@ -99,6 +99,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 597,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/head.html",
+			"settings":
+			{
+				"buffer_size": 99,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -108,20 +124,36 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "install",
+		"last_filter": "package",
 		"selected_items":
 		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: Sass"
+			],
+			[
+				"set syntax:sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"",
+				"Jekyll: Insert current date"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
 			],
 			[
-				"scss",
-				"Set Syntax: CSS"
+				"jekyll",
+				"Jekyll: New post"
 			],
 			[
-				"jekyll",
-				"Jekyll: Promote draft to post..."
+				"scss",
+				"Set Syntax: CSS"
 			],
 			[
 				"jek",
@@ -129,14 +161,6 @@
 			],
 			[
 				"packa",
-				"Package Control: Install Package"
-			],
-			[
-				"package",
-				"Package Control: Install Package"
-			],
-			[
-				"",
 				"Package Control: Install Package"
 			],
 			[
@@ -148,7 +172,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 400.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -170,14 +194,32 @@
 	},
 	"expanded_folders":
 	[
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts"
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts"
 	],
 	"file_history":
 	[
+		"/C/Program Files/Logitech Gaming Software/Resources/G930/Manifest/Device_Manifest.xml",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/index.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/-layouts-index.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css/main.scss",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/1-libs/-libs-index.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/1-libs/libs-index.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_config.yml",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/about.md",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css/_2-layouts/-layouts-index.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css/_1-libs/-libs-index.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css/_2-layouts/header.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css/1-libs/libs-index.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css/_2-layouts/test.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/2015-08-19-welcome-to-jekyll.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/2016-01-18-test-post.markdown",
+		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/b5d4c8b4-6f6f-4b04-a8b7-64f96ef8a615.dmp",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/2016-01-18-new-post.md",
 		"/Z/Users/pastadiablo/Downloads/CasperNorthbound (1).gpx",
 		"/Z/Users/pastadiablo/Downloads/I80Eastbound.gpx",
 		"/Z/Users/pastadiablo/Downloads/CasperNorthbound.gpx",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_config.yml",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_includes/head.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/_base.scss",
 		"/C/Users/pastadiablo/SkyDrive/Documents/DnD/Test Crawl - Floor 1.tmx",
@@ -192,7 +234,6 @@
 		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
-		"/C/Program Files/Logitech Gaming Software/Resources/G930/Manifest/Device_Manifest.xml",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/.gitignore",
 		"/Z/cygwin/home/pastadiablo/.bashrc",
 		"/C/Users/pastadiablo/Steam Library (Fast)/steamapps/common/Kerbal Space Program/CKAN/installed-default.ckan",
@@ -285,23 +326,7 @@
 		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/tags/orphanTags.html",
 		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/admin.js",
 		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/reports/reportsContacts.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/search.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/libs/ng-infinite-scroll.min.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/tags/tags.html",
-		"/Z/Users/pastadiablo/Documents/ige_prototype/examples/13.6-texturemaps-load-tiled/client.js",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/Curator/curator_building_test/client.js",
-		"/Z/Users/pastadiablo/Documents/ige_prototype/examples/13.6-texturemaps-load-tiled/server.js",
-		"/Z/Users/pastadiablo/Documents/ige_prototype/examples/13.6-texturemaps-load-tiled/index.js",
-		"/Z/Users/pastadiablo/Documents/ige_prototype/examples/13.6-texturemaps-load-tiled/index.html",
-		"/Z/Users/pastadiablo/Pictures/Black Marble.jpg",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/Curator/curator_building_test/index.js",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/Curator/curator_building_test/readme.md",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/Curator/curator_building_test/index.html",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/Curator/curator_building_test/ClientConfig.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/contacts/contact-index.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/feedback.html",
-		"/Z/Users/pastadiablo/Desktop/login.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/calendar.html"
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/search.js"
 	],
 	"find":
 	{
@@ -525,8 +550,68 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_layouts/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 99,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -607,7 +692,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 357.0,
+	"side_bar_width": 273.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
