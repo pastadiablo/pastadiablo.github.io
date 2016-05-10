@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"shad",
+				"text-shadow"
+			],
+			[
 				"For",
 				"forEach"
 			],
@@ -100,18 +104,50 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "pages/projects/index.html",
 			"settings":
 			{
-				"buffer_size": 597,
-				"line_ending": "Unix"
+				"buffer_size": 751,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_layouts/head.html",
+			"file": "_layouts/project.html",
 			"settings":
 			{
-				"buffer_size": 99,
+				"buffer_size": 339,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Z/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/practicecfg.cfg",
+			"settings":
+			{
+				"buffer_size": 681,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_drafts/create-update-delete-unit-testing-ios.markdown",
+			"settings":
+			{
+				"buffer_size": 217,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_drafts/private-variables-discussion.markdown",
+			"settings":
+			{
+				"buffer_size": 97,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 475,
 				"line_ending": "Windows"
 			}
 		}
@@ -123,10 +159,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "package",
+		"height": 357.0,
+		"last_filter": "jekyll",
 		"selected_items":
 		[
+			[
+				"jekyll",
+				"Jekyll: New draft"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
 			[
 				"package",
 				"Package Control: Install Package"
@@ -140,16 +184,8 @@
 				"Set Syntax: Sass"
 			],
 			[
-				"",
-				"Jekyll: Insert current date"
-			],
-			[
 				"install",
 				"Package Control: Install Package"
-			],
-			[
-				"jekyll",
-				"Jekyll: New post"
 			],
 			[
 				"scss",
@@ -172,7 +208,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 512.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -195,15 +231,67 @@
 	"expanded_folders":
 	[
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts"
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/about",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/archive",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/projects",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/skills",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/blog",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/blog/_posts",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/project",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/project/_posts"
 	],
 	"file_history":
 	[
-		"/C/Program Files/Logitech Gaming Software/Resources/G930/Manifest/Device_Manifest.xml",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/game-idea-no-patrols-stealth.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/archive/index.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/project/_posts/2010-01-01-ash.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/project/_posts/2010-01-02-lion-and-laurel.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/project/_posts/2011-01-01-ash-2.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/project/_posts/2011-01-02-archibald-and-remus.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/projects/index.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/default.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/project.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/index.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/-layouts-index.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/default.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/header.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/blog.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/projects/2010-01-01-ash.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/footer.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_includes/footer.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/2016-04-19-2010-ash.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/2015-08-19-welcome-to-jekyll.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_includes/header.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/post.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css/main.scss",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/game-idea-plant-trimming.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/about/index.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/private-variables-discussion.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/game-genesis-fusion.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/abstract-user-stories.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/game-genesis-fission.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_includes/about.markdown",
+		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
+		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/Jekyll/README.md",
+		"/C/Program Files/Logitech Gaming Software/Resources/G930/Manifest/Device_Manifest.xml",
+		"/C/Program Files/Logitech Gaming Software/Resources/G930/Manifest/game-genesis-fission.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/2016-01-18-test-post.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/blog/index.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/projects/index.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/blog-posts.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/skills.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/blog-posts.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/1-libs/-libs-index.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/test.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_includes/head.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/index.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/header.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/head.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/1-libs/libs-index.sass",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_config.yml",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/about.md",
@@ -212,20 +300,16 @@
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css/_2-layouts/header.sass",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css/1-libs/libs-index.sass",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css/_2-layouts/test.sass",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/2015-08-19-welcome-to-jekyll.markdown",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/2016-01-18-test-post.markdown",
 		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/b5d4c8b4-6f6f-4b04-a8b7-64f96ef8a615.dmp",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/2016-01-18-new-post.md",
 		"/Z/Users/pastadiablo/Downloads/CasperNorthbound (1).gpx",
 		"/Z/Users/pastadiablo/Downloads/I80Eastbound.gpx",
 		"/Z/Users/pastadiablo/Downloads/CasperNorthbound.gpx",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_includes/head.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/_base.scss",
 		"/C/Users/pastadiablo/SkyDrive/Documents/DnD/Test Crawl - Floor 1.tmx",
 		"/C/Users/pastadiablo/SkyDrive/Documents/DnD/Campaigns/Temples of the Wyrm/Ziggurat A/Level 1.tmx",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pastadiablo.github.io.sublime-project",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/post.html",
 		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
@@ -289,44 +373,7 @@
 		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/saves/pastadiablo - Hardcore Realism/persistent.sfs",
 		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/SCANsat/Resources/ScienceDefs.cfg",
 		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/SCANsat/Resources/SCANresource.cfg",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/SCANsat/Parts/Scanner 32/part.cfg",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/SCANsat/Parts/Scanner 8/part.cfg",
-		"/Z/Users/pastadiablo/Downloads/B9_Aerospace_Pack-R5.2.5/README.md",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/Karbonite/Parts/KA_DetectionArray_01/KA_DetectionArray_01.cfg",
-		"/Z/Users/pastadiablo/Downloads/MKS_0.21.2/GameData/Firespitter/Firespitter.version",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/Engineer/KerbalEngineerRedux.version",
-		"/Z/Users/pastadiablo/Desktop/Dan Magnusson.doc",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/ActiveTextureManagement/config.cfg",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/events/event.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/events/orphanEvents.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/events/events.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/app-filters.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Events/EventServicesModule.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/styles/style.css",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/tasks/task.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/tags/tag.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/events/event-index.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/reports/reportsEvents.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/orphans.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/events/orphanEvent.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Tags/TagServicesModule.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/search.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/app-globals.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/filters.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/view.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/tasks/orphanTask.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/tags/orphanTag.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/settings.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Tasks/TaskServicesModule.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/events.js",
-		"/Z/Users/pastadiablo/Desktop/dashboard.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/reports/reportsTasks.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/tasks/tasks.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/tasks/orphanTasks.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/orphans/tags/orphanTags.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/admin.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/reports/reportsContacts.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/search.js"
+		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/SCANsat/Parts/Scanner 32/part.cfg"
 	],
 	"find":
 	{
@@ -356,6 +403,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"“",
+			"”",
 			"trkpt",
 			"thermometer",
 			"1/8",
@@ -481,9 +530,7 @@
 			"allObjects",
 			"allObjects.events",
 			"$scope.events.",
-			"$scope.events ",
-			"checkEvents",
-			"in events"
+			"$scope.events "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -491,6 +538,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"\"",
 			"wpt",
 			"ccurrence",
 			"AllEvents",
@@ -550,31 +598,117 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "pages/projects/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 597,
+						"buffer_size": 751,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								24,
-								24
+								497,
+								497
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_layouts/project.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								280,
+								280
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Z/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/practicecfg.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								342,
+								342
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_drafts/create-update-delete-unit-testing-ios.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -584,32 +718,61 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "_layouts/head.html",
-					"semi_transient": false,
+					"buffer": 4,
+					"file": "_drafts/private-variables-discussion.markdown",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 99,
+						"buffer_size": 97,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								99,
-								99
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"open_with_edit": true,
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								475,
+								475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -692,7 +855,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 273.0,
+	"side_bar_width": 329.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
