@@ -1,7 +1,7 @@
 ---
 title: Multiple Discovery In Game Development
 layout: post
-categories: design, prototyping
+categories: design prototyping
 date: 2016-05-23 19:04:13
 ---
 

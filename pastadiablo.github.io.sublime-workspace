@@ -115,7 +115,7 @@
 			"file": "posts/blog/_posts/2016-05-23-multiple-discovery-in-game-development.markdown",
 			"settings":
 			{
-				"buffer_size": 11253,
+				"buffer_size": 11252,
 				"line_ending": "Windows"
 			}
 		},
@@ -230,20 +230,6 @@
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/test",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/test/counterstrike",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/test/counterstrike/2016",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/test/counterstrike/2016/01",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/test/counterstrike/2016/01/18",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/update",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/update/2015",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/update/2015/08",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/update/2015/08/19",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/project/2011",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/project/2011/01",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/project/2011/01/01",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/project/2011/01/02",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/about",
@@ -610,7 +596,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -649,15 +635,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 11253,
+						"buffer_size": 11252,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2169,
-								2169
+								81,
+								81
 							]
 						],
 						"settings":
@@ -668,7 +654,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -696,7 +682,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -726,7 +712,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -755,7 +741,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
