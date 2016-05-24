@@ -104,34 +104,34 @@
 	"buffers":
 	[
 		{
-			"file": "pages/projects/index.html",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 751,
+				"buffer_size": 462,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_layouts/project.html",
+			"file": "posts/blog/_posts/2016-05-23-multiple-discovery-in-game-development.markdown",
 			"settings":
 			{
-				"buffer_size": 339,
+				"buffer_size": 11253,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/Z/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/practicecfg.cfg",
+			"file": "pages/skills/index.html",
 			"settings":
 			{
-				"buffer_size": 681,
+				"buffer_size": 241,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_drafts/create-update-delete-unit-testing-ios.markdown",
+			"file": "/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
 			"settings":
 			{
-				"buffer_size": 217,
+				"buffer_size": 932,
 				"line_ending": "Windows"
 			}
 		},
@@ -140,22 +140,6 @@
 			"settings":
 			{
 				"buffer_size": 213,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_sass/2-layouts/header.sass",
-			"settings":
-			{
-				"buffer_size": 919,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 475,
 				"line_ending": "Windows"
 			}
 		}
@@ -168,20 +152,28 @@
 	"command_palette":
 	{
 		"height": 357.0,
-		"last_filter": "jekyll",
+		"last_filter": "jek",
 		"selected_items":
 		[
 			[
+				"jek",
+				"Jekyll: New post"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
 				"jekyll",
-				"Jekyll: New draft"
+				"Jekyll: Promote draft to post"
 			],
 			[
 				"",
 				":$ - EOF"
-			],
-			[
-				"package",
-				"Package Control: Install Package"
 			],
 			[
 				"set",
@@ -198,10 +190,6 @@
 			[
 				"scss",
 				"Set Syntax: CSS"
-			],
-			[
-				"jek",
-				"Jekyll: Insert current date"
 			],
 			[
 				"packa",
@@ -242,6 +230,20 @@
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/test",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/test/counterstrike",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/test/counterstrike/2016",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/test/counterstrike/2016/01",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/test/counterstrike/2016/01/18",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/update",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/update/2015",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/update/2015/08",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/blog/jekyll/update/2015/08/19",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/project/2011",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/project/2011/01",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/project/2011/01/01",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/posts/project/2011/01/02",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/about",
@@ -256,19 +258,24 @@
 	],
 	"file_history":
 	[
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/blog/_posts/2016-05-23-tester.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/multiple-discovery-in-game-development.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/index.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/post.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/header.sass",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/default.sass",
+		"/Z/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/practicecfg.cfg",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/project.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/projects/index.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/create-update-delete-unit-testing-ios.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/game-idea-no-patrols-stealth.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/archive/index.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/project/_posts/2010-01-01-ash.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/project/_posts/2010-01-02-lion-and-laurel.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/project/_posts/2011-01-01-ash-2.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/project/_posts/2011-01-02-archibald-and-remus.markdown",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/projects/index.html",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/default.sass",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/project.html",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/index.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/-layouts-index.sass",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/default.html",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/header.sass",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/blog.sass",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/projects/2010-01-01-ash.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/footer.sass",
@@ -378,12 +385,7 @@
 		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/MKS_OKS_RT2.cfg",
 		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/Karbonite.version",
 		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/Karbonite/ATM.cfg",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/create.html",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/saves/pastadiablo - Hardcore Realism/Ships/SPH/Wisdom XI.craft",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/saves/pastadiablo - Hardcore Realism/persistent.sfs",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/SCANsat/Resources/ScienceDefs.cfg",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/SCANsat/Resources/SCANresource.cfg",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/SCANsat/Parts/Scanner 32/part.cfg"
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/create.html"
 	],
 	"find":
 	{
@@ -608,54 +610,24 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "pages/projects/index.html",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 751,
+						"buffer_size": 462,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								497,
-								497
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_layouts/project.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 339,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								280,
-								280
+								456,
+								456
 							]
 						],
 						"settings":
@@ -672,48 +644,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/Z/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/practicecfg.cfg",
+					"buffer": 1,
+					"file": "posts/blog/_posts/2016-05-23-multiple-discovery-in-game-development.markdown",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 681,
+						"buffer_size": 11253,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								342,
-								342
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_drafts/create-update-delete-unit-testing-ios.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 217,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								217,
-								217
+								2169,
+								2169
 							]
 						],
 						"settings":
@@ -724,30 +668,59 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "_sass/2-layouts/default.sass",
+					"buffer": 2,
+					"file": "pages/skills/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 213,
+						"buffer_size": 241,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								213,
-								213
+								128,
+								128
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								932,
+								932
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -757,20 +730,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "_sass/2-layouts/header.sass",
-					"semi_transient": false,
+					"buffer": 4,
+					"file": "_sass/2-layouts/default.sass",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 919,
+						"buffer_size": 213,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								103,
-								103
+								0,
+								0
 							]
 						],
 						"settings":
@@ -784,43 +757,13 @@
 					},
 					"stack_index": 0,
 					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 475,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								475,
-								475
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"input":
 	{
