@@ -65,7 +65,7 @@
 			],
 			[
 				"a",
-				"a	Tag"
+				"a\tTag"
 			],
 			[
 				"birt",
@@ -104,59 +104,32 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "/Z/Swift/Samples/SwiftForWindows/SwiftForWindows.swift",
 			"settings":
 			{
-				"buffer_size": 462,
+				"buffer_size": 11405,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_includes/head.html",
+			"contents": "{\n\t\"version\": 2,\n\t\"gameTime\": 95794,\n\t\"dateTicks\": 636527056526519457,\n\t\"startTicks\": 636524272639919629,\n\t\"changeSet\": 59783,\n\t\"userName\": \"pastadiablo\",\n\t\"machineName\": \"BABBAGE\",\n\t\"gameMode\": 0,\n\t\"isFallback\": false,\n\t\"cyclopsPresent\": false,\n\t\"seamothPresent\": false,\n\t\"exosuitPresent\": true,\n\t\"rocketPresent\": false,\n\t\"basePresent\": true\n}",
+			"file": "/X/SteamFast/steamapps/common/Subnautica/SNAppData/SavedGames/slot0000/gameinfo.json",
+			"file_size": 306,
+			"file_write_time": 131616112526599527,
 			"settings":
 			{
-				"buffer_size": 1162,
+				"buffer_size": 344,
+				"encoding": "UTF-8 with BOM",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "posts/blog/_posts/2016-05-23-multiple-discovery-in-game-development.markdown",
+			"file": "/X/SteamFast/steamapps/common/Subnautica/SNAppData/SavedGames/slot0000/global-objects.bin",
 			"settings":
 			{
-				"buffer_size": 11258,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "posts/blog/_posts/2016-05-23-kaiju-devlog-1.markdown",
-			"settings":
-			{
-				"buffer_size": 510,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_sass/2-layouts/default.sass",
-			"settings":
-			{
-				"buffer_size": 213,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 932,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_layouts/post.html",
-			"settings":
-			{
-				"buffer_size": 329,
-				"line_ending": "Windows"
+				"buffer_size": 544167,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -167,10 +140,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 334.0,
-		"last_filter": "date",
+		"height": 392.0,
+		"last_filter": "package",
 		"selected_items":
 		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"draft",
+				"Jekyll: New draft"
+			],
 			[
 				"date",
 				"Jekyll: Insert current datetime"
@@ -178,10 +159,6 @@
 			[
 				"jek",
 				"Jekyll: New post"
-			],
-			[
-				"package",
-				"Package Control: Upgrade Package"
 			],
 			[
 				"update",
@@ -224,7 +201,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 400.0
+		"width": 432.0
 	},
 	"console":
 	{
@@ -250,15 +227,6 @@
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_includes",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/assets",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/about",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/archive",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/projects",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/skills",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/blog",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/blog/_posts",
@@ -267,18 +235,39 @@
 	],
 	"file_history":
 	[
+		"/Z/Users/pastadiablo/Downloads/myfile.dat",
+		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Installed Packages/Swift.sublime-package",
+		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Z/Swift/Samples/HelloWin/HelloWin.swift",
+		"/C/Users/pastadiablo/AppData/Local/Frontier Developments/Planet Coaster/Config_Local/Graphics.config.xml",
+		"/C/Users/pastadiablo/AppData/Local/Frontier Developments/Planet Coaster/Config_Local/PerformanceRating.config.xml",
+		"/Z/Users/pastadiablo/OneDrive/Documents/Logitech Utility Profile.dat",
+		"/Z/Users/pastadiablo/OneDrive/Documents/Comparison.dat",
+		"/Z/Users/pastadiablo/Desktop/Talnor_116205073/Talnor_116205073",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/create-update-delete-unit-testing-ios.markdown",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/abstract-user-stories.markdown",
+		"/Z/Users/pastadiablo/Documents/TimmonsProjects/IFRIS/IFRIS_Web/gruntfile.coffee",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/career-work-distinction.markdown",
+		"/Z/Users/pastadiablo/Downloads/part1.m",
+		"/Z/Users/pastadiablo/Downloads/-.m",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/index.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_includes/head.html",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/blog/_posts/2016-05-23-multiple-discovery-in-game-development.markdown",
+		"/Z/Program Files (x86)/Steam/config/steamvr.vrsettings",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/post.html",
+		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/blog/_posts/2016-05-23-kaiju-devlog-1.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_config.yml",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/skills/index.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/blog/_posts/2016-05-23-tester.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/multiple-discovery-in-game-development.markdown",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/index.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/post.sass",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/header.sass",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/2-layouts/default.sass",
 		"/Z/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/practicecfg.cfg",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/project.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/projects/index.html",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/create-update-delete-unit-testing-ios.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/game-idea-no-patrols-stealth.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/archive/index.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/posts/project/_posts/2010-01-01-ash.markdown",
@@ -294,17 +283,14 @@
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/2016-04-19-2010-ash.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/2015-08-19-welcome-to-jekyll.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_includes/header.html",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/post.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/css/main.scss",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/game-idea-plant-trimming.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pages/about/index.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/private-variables-discussion.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/game-genesis-fusion.markdown",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/abstract-user-stories.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/game-genesis-fission.markdown",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_includes/about.markdown",
 		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
-		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
 		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/Jekyll/README.md",
 		"/C/Program Files/Logitech Gaming Software/Resources/G930/Manifest/Device_Manifest.xml",
 		"/C/Program Files/Logitech Gaming Software/Resources/G930/Manifest/game-genesis-fission.markdown",
@@ -316,7 +302,6 @@
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/blog-posts.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/1-libs/-libs-index.sass",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_sass/test.sass",
-		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_includes/head.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_site/index.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/header.html",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_layouts/head.html",
@@ -339,7 +324,6 @@
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/pastadiablo.github.io.sublime-project",
 		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_drafts/test-draft.md",
 		"/Z/Users/pastadiablo/Documents/Personal Projects/pastadiablo.github.io/_posts/2015-08-27-test-draft.md",
 		"/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
@@ -378,23 +362,7 @@
 		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/fonts/open-sans",
 		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/settings.js",
 		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/feedback.php",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/createAssociateTemplate.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/reports/reports.html",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Tasks/TasksModule.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Tags/TagsModule.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Events/EventsModule.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/scripts/Dashboard/DashboardModule.js",
-		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/dashboard/dashboard.html",
-		"/Z/Users/pastadiablo/Desktop/Prod Build 7/Prod Build 7",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/settings.cfg",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/CommunityResourcePack/Karbonite/Planetary_Karbonite.cfg",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/2014-10-16_142722/output_log.txt",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/MKS/MKS_Resources.cfg",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/Karbonite/Parts/KA_ParticleCollector_250_01/KA_ParticleCollector_250_01.cfg",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/CommunityResourcePack/Karbonite/Atmospheric_Karbonite.cfg",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/MKS_OKS_RT2.cfg",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/Karbonite.version",
-		"/Z/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/GameData/UmbraSpaceIndustries/Karbonite/ATM.cfg"
+		"/Z/Users/pastadiablo/Documents/SRRN Git Repos/daywon-frontend/angularApp/templates/createAssociateTemplate.html"
 	],
 	"find":
 	{
@@ -607,7 +575,7 @@
 			"Tag",
 			"tag",
 			"Task",
-			"OrphansModule.controller('OrphanTaskController', ['$scope', '$resource', '$stateParams', '$state', 'taskService',\n	function($scope, $resource, $stateParams, $state, taskService) {\n\n		$scope.orphansPromise.$promise.then(function(data) {\n\n			for(var i = 0; i < data.orphans[0].tasks.length; i++)\n			{\n				if(data.orphans[0].tasks[i].id ==  $stateParams['task_id'])\n				{\n					$scope.task = data.orphans[0].tasks[i]; \n					console.log($scope.task);\n					break;		\n				}\n			}\n		});		\n\n		$scope.associatedObjects = [];\n\n		$scope.onSelect = function ($item, $model, $label) {\n\n			$scope.associatedObjects.push($model);\n		}\n\n		$scope.removeObject = function(object) {\n			var index = $scope.associatedObjects.indexOf(object);\n\n			if(index > -1)\n				$scope.associatedObjects.splice(index, 1);\n		}\n\n		$scope.submitAssociations = function() {\n\n			taskService.Event.get({task_id: $scope.task.id}, function(data) {\n				\n				console.log(data);\n				$scope.updatedEvent = data;\n\n				for(var i = 0; i < $scope.associatedObjects.length; i++)\n				{\n					if($scope.associatedObjects[i].type == \"contact\")\n						$scope.updatedEvent.contacts.push($scope.associatedObjects[i]);\n					if($scope.associatedObjects[i].type == \"task\")\n						$scope.updatedEvent.tasks.push($scope.associatedObjects[i]);\n					if($scope.associatedObjects[i].type == \"tag\")\n						$scope.updatedEvent.tags.push($scope.associatedObjects[i]);\n				}\n\n				$scope.updatedEvent.$save();\n\n				var index = $scope.taskOrphans.indexOf($scope.task);\n\n				if(index > -1)\n					$scope.taskOrphans.splice(index, 1);\n\n				$state.go('orphanEvents.index');\n			});\n			\n		};\n\n	}]);",
+			"OrphansModule.controller('OrphanTaskController', ['$scope', '$resource', '$stateParams', '$state', 'taskService',\n\tfunction($scope, $resource, $stateParams, $state, taskService) {\n\n\t\t$scope.orphansPromise.$promise.then(function(data) {\n\n\t\t\tfor(var i = 0; i < data.orphans[0].tasks.length; i++)\n\t\t\t{\n\t\t\t\tif(data.orphans[0].tasks[i].id ==  $stateParams['task_id'])\n\t\t\t\t{\n\t\t\t\t\t$scope.task = data.orphans[0].tasks[i]; \n\t\t\t\t\tconsole.log($scope.task);\n\t\t\t\t\tbreak;\t\t\n\t\t\t\t}\n\t\t\t}\n\t\t});\t\t\n\n\t\t$scope.associatedObjects = [];\n\n\t\t$scope.onSelect = function ($item, $model, $label) {\n\n\t\t\t$scope.associatedObjects.push($model);\n\t\t}\n\n\t\t$scope.removeObject = function(object) {\n\t\t\tvar index = $scope.associatedObjects.indexOf(object);\n\n\t\t\tif(index > -1)\n\t\t\t\t$scope.associatedObjects.splice(index, 1);\n\t\t}\n\n\t\t$scope.submitAssociations = function() {\n\n\t\t\ttaskService.Event.get({task_id: $scope.task.id}, function(data) {\n\t\t\t\t\n\t\t\t\tconsole.log(data);\n\t\t\t\t$scope.updatedEvent = data;\n\n\t\t\t\tfor(var i = 0; i < $scope.associatedObjects.length; i++)\n\t\t\t\t{\n\t\t\t\t\tif($scope.associatedObjects[i].type == \"contact\")\n\t\t\t\t\t\t$scope.updatedEvent.contacts.push($scope.associatedObjects[i]);\n\t\t\t\t\tif($scope.associatedObjects[i].type == \"task\")\n\t\t\t\t\t\t$scope.updatedEvent.tasks.push($scope.associatedObjects[i]);\n\t\t\t\t\tif($scope.associatedObjects[i].type == \"tag\")\n\t\t\t\t\t\t$scope.updatedEvent.tags.push($scope.associatedObjects[i]);\n\t\t\t\t}\n\n\t\t\t\t$scope.updatedEvent.$save();\n\n\t\t\t\tvar index = $scope.taskOrphans.indexOf($scope.task);\n\n\t\t\t\tif(index > -1)\n\t\t\t\t\t$scope.taskOrphans.splice(index, 1);\n\n\t\t\t\t$state.go('orphanEvents.index');\n\t\t\t});\n\t\t\t\n\t\t};\n\n\t}]);",
 			"task"
 		],
 		"reverse": false,
@@ -619,115 +587,59 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "/Z/Swift/Samples/SwiftForWindows/SwiftForWindows.swift",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 462,
+						"buffer_size": 11405,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								462,
-								462
+								3255,
+								3255
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"syntax": "Packages/Swift/Syntaxes/Swift.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_includes/head.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1162,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1139,
-								1139
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "posts/blog/_posts/2016-05-23-multiple-discovery-in-game-development.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11258,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								703,
-								703
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 900.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "posts/blog/_posts/2016-05-23-kaiju-devlog-1.markdown",
+					"buffer": 1,
+					"file": "/X/SteamFast/steamapps/common/Subnautica/SNAppData/SavedGames/slot0000/gameinfo.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 510,
+						"buffer_size": 344,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								510,
-								510
+								342,
+								342
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -737,92 +649,31 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "_sass/2-layouts/default.sass",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 213,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								213,
-								213
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/Users/pastadiablo/AppData/Roaming/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+					"buffer": 2,
+					"file": "/X/SteamFast/steamapps/common/Subnautica/SNAppData/SavedGames/slot0000/global-objects.bin",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 932,
+						"buffer_size": 544167,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								932,
-								932
+								544167,
+								544167
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_layouts/post.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 329,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8,
-								8
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

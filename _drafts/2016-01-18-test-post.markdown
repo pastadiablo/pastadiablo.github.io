@@ -1,8 +1,0 @@
----
-title:  "Test Post"
-date:   2016-01-18 20:25:10
-categories: jekyll test counterstrike
-layout: post
----
-
-There is some text in this post.  I've always thought it would be really cool to write a blog regularly.  Maybe now I'll start.
