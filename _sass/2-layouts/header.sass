@@ -1,56 +1,88 @@
 header
-	height: 386px
-	background: url(../assets/header_plate.png) center center
+	height: auto
+	background-color: inherit
 	border-radius: 20px 20px 0px 0px
-	//background-size: cover
-
-	nav
-		text-align: center
-		a
-			margin-top: 30px
-			display: inline-block
-			margin-left: 40px
-			margin-right: 40px
-
-			color: #efecca
-			font:
-				size: 18px
-				weight: 700
-			text-transform: uppercase
-			text-decoration: none
-
-			&:hover
-				color: #a7a37e
-
-	.social_media
-		text-align: center
-		padding-top: 50px
-
-		.social_media_link_left
-			+size(50px)
-			display: inline-block
-			margin-left: 50px
-
-		.social_media_link_right
-			+size(50px)
-			display: inline-block
-			margin-right: 50px
-
-		.headshot
-			+size(160px)
-			display: inline-block
-			margin-right: 10px
-			margin-left: 10px
-
-
+	text-align: center
+	
 	h1
-		text-align: center
 		font
 			weight: 900
-		font-size: 48px
+		font-size: 64px
+		margin-top: 0px
+		margin-bottom: 20px
+		color: $primary-color
+		-webkit-text-stroke-width: 2px
+		-webkit-text-stroke-color: $primary-color-dark
 
-		font-family: 'Arial Black'
-		color: #efecca
+		a:link, a:visited
+			text-decoration: none
+			color: $primary-color
+		a:hover, a:active
+			text-decoration: none
+			color: $primary-color-light
 
-		-webkit-text-stroke-width: 1px
-		-webkit-text-stroke-color: black
+	.top_cap
+		background-color: transparent
+		border-radius: 10px 10px 0px 0px
+		overflow: hidden
+
+	nav
+		background-color: $primary-color
+		border-radius: 10px
+		display: flex
+		align-items: stretch
+		justify-content: space-between
+		overflow: hidden
+		.navbar
+			display: flex
+			align-items: stretch
+			a
+				display: flex
+				align-items: center
+				margin: 10px
+				padding-left: 5px
+				padding-right: 5px
+				border-radius: 3px
+				font:
+					size: 18px
+					weight: 700
+				text-align: center
+				text-transform: uppercase
+				text-decoration: none
+				color: $secondary-color-dark
+				// -webkit-text-stroke-width: 1px
+				// -webkit-text-stroke-color: $secondary-color-dark
+
+				&:link, &:visited
+					text-decoration: none
+					color: $secondary-color-dark
+				&:hover, &:active
+					color: $secondary-color
+				&.active
+					color: $secondary-color-light
+
+		.social_media
+			display: flex
+			align-items: center
+			padding-right: 20px
+			margin: 5px
+
+			li
+				display: flex
+				align-items: center
+				padding-left: 10px
+
+			a
+				display: inline-block
+				+size(48px)
+
+			svg
+				+size(48px)
+				clip-path: circle(40% at 50% 50%)
+				background-color: $secondary-color
+				&:hover
+					color: #000000
+					background-color: $secondary-color-light
+
+	hr
+		margin: 0px

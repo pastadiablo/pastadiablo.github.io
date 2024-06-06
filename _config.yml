@@ -13,3 +13,12 @@ github_username:  pastadiablo
 
 # Build settings
 markdown: kramdown
+
+collections_dir: collections/
+collections:
+  blog:
+    output: true
+    permalink: /blog/:title/
+  projects:
+    output: true
+    permalink: /projects/:title/

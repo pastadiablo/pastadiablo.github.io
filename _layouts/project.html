@@ -1,19 +1,19 @@
 <html>
 
-  {% include head.html %}
+  {% include 2-html/head.html %}
   
   <body>
 
-    {% include header.html %}
+    {% include 2-html/header.html %}
 
     <div class="content">
     	<div class="post">
 	    	<h2> {{ page.title }} </h2>
-	      	<span class="post-meta">{{ page.date | date: "%Y" }} - {{page.company}}</span>
+	      <span class="post-meta">{{page.company}} - {{ page.date | date: "%Y" }}</span>
 	    	{{ content }}
 	    </div>
     </div>
 
-    {% include footer.html%}
+    {% include 2-html/footer.html%}
   </body>
 </html>

@@ -1,14 +1,54 @@
+html
+	background: #000000 url(../assets/background.png)
+	background-size: cover
+	background-position: center
+	background-attachment: fixed
 body	
+	// background: url(../assets/background.png)
 	min-width: 640px
-	max-width: 768px
+	max-width: 1080px
 	margin: auto auto
+	background-color: transparent
+	color: $primary-color-dark
+	font-family: $font-noto-sans
+
+	p
+		text-align: justify
+
+	img
+		+size(240px)
+		margin-top: 20px
+		margin-bottom: 20px
+
+		&.left
+			float: left
+			margin-right: 40px
+
+		&.right
+			float: right
+			margin-left: 40px
 
 	.content
-		background: #efecca
-		padding: 40px
+		background: $primary-color-light
+		padding: 10px 40px 40px 40px
 		font-size: 20px
-		border-radius: 0px 0px 10px 10px
+		margin-left: 10px
+		margin-right: 10px
 
 		.post-list
 			padding: 0px
-			margin-top: -30px
+			margin: 0px
+		h1
+			margin: 0px
+			a:link, a:visited, a:hover, a:active
+				text-decoration: none
+				color: $primary-color-dark
+		.page-meta
+			color: $secondary-color
+			float: right
+			font-size: 12px
+			text-align: right
+			.page-sub-meta
+				font-size: 8px
+		.page
+			padding-top: 40px

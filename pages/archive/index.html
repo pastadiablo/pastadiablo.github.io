@@ -1,14 +1,18 @@
 ---
 title: Archive
 layout: default
+permalink: /archive/
 ---
 
 <ul class="post-list">
-  {% for post in site.categories['blog'] %}
+  {% assign documents = site.documents | sort | reverse %}
+  {% for post in documents %}
     <li class="post">
 
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>          
       
     </li>
   {% endfor %}

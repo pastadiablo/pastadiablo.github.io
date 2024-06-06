@@ -17,10 +17,22 @@
     }
 }
 
-@font-face{
-    font-family: "Trebuchet MS Bold";
-    src: url('Trebuchet MS Bold.ttf'),
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+$font-noto-sans: "Noto Sans", sans-serif;
+
+$primary-color: #0353A4;
+$primary-color-light: #B9D6F2;
+$primary-color-dark: #0E0004;
+
+$secondary-color: #3F7D20;
+$secondary-color-light: #72B01D;
+$secondary-color-dark: #18310C;
+
+// Olive green
+// $secondary-color: #5D8377;
+// $secondary-color-light: #88AA9F;
+// $secondary-color-dark: #3B544B;
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
@@ -28,6 +40,3 @@
 		"2-layouts/-layouts-index"
 ;
 
-body {
-	background: black;
-}
