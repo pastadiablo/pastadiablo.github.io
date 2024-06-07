@@ -6,13 +6,16 @@
 		margin-top: 0px
 		margin-bottom: 0px
 		color: $secondary-color
-		a:link, a:visited
-			text-decoration: none
-			color: $secondary-color
-			text-decoration: none
-		a:hover, a:active			
-			color: $secondary-color
-			text-decoration: underline
+		a
+			&:link
+				color: $secondary-color
+				text-decoration: none
+			&:visited
+				color: $secondary-color-dark
+				text-decoration: none
+			&:hover
+				color: $secondary-color
+				text-decoration: underline
 		.page-title
 		color: $primary-color
 
@@ -20,10 +23,11 @@
 		color: $primary-color
 
 	a
-		color: $secondary-color
-
-		&:link, &:visited
+		&:link
 			color: $secondary-color
+			text-decoration: none
+		&:visited
+			color: $secondary-color-dark
 			text-decoration: none
 		&:hover
 			color: $secondary-color

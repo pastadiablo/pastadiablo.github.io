@@ -4,24 +4,29 @@ header
 	border-radius: 20px 20px 0px 0px
 	text-align: center
 	
-	h1
-		font:
-			weight: 900
-			size: 5rem
+	.title
+		display: flex
+		flex-direction: column
+		h1
+			display: flex
+			align-self: center
+			font:
+				weight: 900
+				size: 5rem
 
-		// text-shadow: 0.2rem 0.2rem $primary-color-light
-		margin-top: 0px
-		margin-bottom: 0px
-		color: $primary-color
-		-webkit-text-stroke-width: 0.2rem
-		-webkit-text-stroke-color: $primary-color-dark
+			// text-shadow: 0.2rem 0.2rem $primary-color-light
+			margin-top: 0px
+			margin-bottom: 0px
+			color: $primary-color
+			-webkit-text-stroke-width: 0.2rem
+			-webkit-text-stroke-color: $primary-color-dark
 
-		a:link, a:visited
-			text-decoration: none
-			color: $primary-color
-		a:hover, a:active
-			text-decoration: none
-			color: $primary-color
+			a:link, a:visited
+				text-decoration: none
+				color: $primary-color
+			a:hover, a:active
+				text-decoration: none
+				color: $primary-color
 
 	.top_cap
 		background-color: transparent
@@ -52,24 +57,16 @@ header
 				text-transform: uppercase
 				text-decoration: none
 				color: $secondary-color
-				// -webkit-text-stroke-width: 0.05rem
-				// -webkit-text-stroke-color: $secondary-color-dark
 
 				&:link, &:visited
+				color: $secondary-color
 					text-decoration: none
-					color: $secondary-color
-					-webkit-text-stroke-width: 0.05rem
-					-webkit-text-stroke-color: $secondary-color-dark
 				&:hover, &:active
-					text-decoration: underline
 					color: $secondary-color
-					-webkit-text-stroke-width: 0.05rem
-					-webkit-text-stroke-color: $secondary-color-dark
-				&.active
 					text-decoration: underline
-					// color: $secondary-color-light
-					-webkit-text-stroke-width: 0rem
-					-webkit-text-stroke-color: $secondary-color-dark
+				&.active
+					color: $secondary-color-light
+					text-decoration: underline
 
 		.social_media
 			display: flex
