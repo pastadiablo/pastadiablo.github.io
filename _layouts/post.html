@@ -7,9 +7,8 @@
     {% include 2-html/header.html %}
 
     <div class="content">
+      {% include 2-html/post-header.html page=page%}
     	<div class="post">
-	    	<h2> {{ page.title }} </h2>
-	      <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
 	    	{{ content }}
 	    </div>
     </div>

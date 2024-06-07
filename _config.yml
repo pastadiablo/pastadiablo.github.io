@@ -2,10 +2,9 @@
 title: Dan Magnusson
 email: pastadiablo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Website of Dan Magnusson, software & game developer.  
-  A generalist programmer, Dan likes to work on games, play games, and watch other people play games.  
-  He seems to have a sort of obsession with games.  
-  Here you can find info on games he's worked on, and his thoughts about games and games development.
+  Website of Dan Magnusson, veteran software development engineer.  
+  Specialist focusing on native iOS development, and C# game development (Godot, Unity).
+  Here you can find information on him, his resume, his projects, his socials, and his thoughts about development.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pastadiablo.com" # the base hostname & protocol for your site
 twitter_username: pastadiablo
@@ -13,6 +12,8 @@ github_username:  pastadiablo
 
 # Build settings
 markdown: kramdown
+
+excerpt_separator: <!--more-->
 
 collections_dir: collections/
 collections:

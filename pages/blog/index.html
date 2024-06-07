@@ -8,13 +8,18 @@ permalink: /blog/
   {% assign posts = site.blog | sort | reverse %}
   {% for post in posts  %}
     <li class="post">
-      <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      {{ post.excerpt }}
-      <a class="post-read-more" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
-    
+      {% include 2-html/post-header.html page=post link=true%}
+      {%- if post.excerpt != post.content -%}
+        <div class="excerpt">
+          {{- post.excerpt -}}
+          <a class="post-read-more" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
+        </div>
+      {%- else -%}
+        {{ post.content }}
+      {% endif %}
     </li>
+    {% if forloop.last == false %}
+      <hr>
+    {% endif %}
   {% endfor %}
 </ul>

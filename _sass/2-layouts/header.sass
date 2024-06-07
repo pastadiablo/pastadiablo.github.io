@@ -5,13 +5,15 @@ header
 	text-align: center
 	
 	h1
-		font
+		font:
 			weight: 900
-		font-size: 64px
+			size: 5rem
+
+		// text-shadow: 0.2rem 0.2rem $primary-color-light
 		margin-top: 0px
-		margin-bottom: 20px
+		margin-bottom: 0px
 		color: $primary-color
-		-webkit-text-stroke-width: 2px
+		-webkit-text-stroke-width: 0.2rem
 		-webkit-text-stroke-color: $primary-color-dark
 
 		a:link, a:visited
@@ -19,7 +21,7 @@ header
 			color: $primary-color
 		a:hover, a:active
 			text-decoration: none
-			color: $primary-color-light
+			color: $primary-color
 
 	.top_cap
 		background-color: transparent
@@ -44,22 +46,30 @@ header
 				padding-right: 5px
 				border-radius: 3px
 				font:
-					size: 18px
+					size: 1.5rem
 					weight: 700
 				text-align: center
 				text-transform: uppercase
 				text-decoration: none
-				color: $secondary-color-dark
-				// -webkit-text-stroke-width: 1px
+				color: $secondary-color
+				// -webkit-text-stroke-width: 0.05rem
 				// -webkit-text-stroke-color: $secondary-color-dark
 
 				&:link, &:visited
 					text-decoration: none
-					color: $secondary-color-dark
-				&:hover, &:active
 					color: $secondary-color
+					-webkit-text-stroke-width: 0.05rem
+					-webkit-text-stroke-color: $secondary-color-dark
+				&:hover, &:active
+					text-decoration: underline
+					color: $secondary-color
+					-webkit-text-stroke-width: 0.05rem
+					-webkit-text-stroke-color: $secondary-color-dark
 				&.active
-					color: $secondary-color-light
+					text-decoration: underline
+					// color: $secondary-color-light
+					-webkit-text-stroke-width: 0rem
+					-webkit-text-stroke-color: $secondary-color-dark
 
 		.social_media
 			display: flex

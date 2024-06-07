@@ -1,0 +1,28 @@
+<div class="post-header">
+  {% if include.page.image_src != nil %}
+    <img class="left" src="{{include.page.image_src}}" alt="{{include.page.image_alt}}" title="{{include.page.image_title}}" width="{{include.page.image_width}}" height="{{include.page.image_height}}"/>
+  {% endif %}
+  <h2>
+    {%if include.link == true%}
+      <a class="post-link" href="{{ include.page.url | prepend: site.baseurl }}">{{ include.page.title }} </a>
+    {% else %}
+      {{ include.page.title }}    
+    {% endif%}
+  </h2>
+  {% if include.page.date_edited and include.page.date_edited != "" and include.page.date_edited != nil %}
+    <div class="post-meta">
+      <div class="post-sub-meta"> 
+        Posted: {{ include.page.date | date: "%b %-d, %Y" }}
+      </div>
+      <div class="post-sub-meta"> 
+        Edited {{ include.page.date_edited | date: "%b %-d, %Y" }}
+      </div>
+    </div>
+  {% else %}
+    <div class="post-meta">
+      <div class="post-sub-meta"> 
+        Posted: {{ include.page.date | date: "%b %-d, %Y" }}
+      </div>
+    </div>
+  {% endif %}
+</div>

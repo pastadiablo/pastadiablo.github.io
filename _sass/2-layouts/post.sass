@@ -1,25 +1,37 @@
 .post
 	list-style: none
-	margin-bottom: 30px
+	margin-bottom: 20px
 
 	h2
 		margin-top: 0px
 		margin-bottom: 0px
-		color: $secondary-color-dark
+		color: $secondary-color
 		a:link, a:visited
 			text-decoration: none
-			color: $secondary-color-dark
+			color: $secondary-color
+			text-decoration: none
 		a:hover, a:active			
-			color: $secondary-color-light
+			color: $secondary-color
+			text-decoration: underline
+		.page-title
+		color: $primary-color
 
 	.post-meta
-		color: $secondary-color
+		color: $primary-color
 
 	a
-		color: $secondary-color-dark
+		color: $secondary-color
 
+		&:link, &:visited
+			color: $secondary-color
+			text-decoration: none
 		&:hover
-			color: $secondary-color-light
+			color: $secondary-color
+			text-decoration: underline
+
+	.excerpt
+		p
+			margin-bottom: 0px
 
 	blockquote
 		padding: 0px 15px

@@ -15,6 +15,7 @@ Next sets in the crushing disappointment and the irrational anger.  You feel lik
 
 I was one of those people for a long time.  But this time I'm going to push through.
 
+<!--more-->
 
 > "And so," he said, "in the end, what must we determine?  Is it the *intellect* of a genius that we revere?  If it were their artistry, the beauty of their mind, would we not laud it regardless of whether we'd seen their product before?
 >

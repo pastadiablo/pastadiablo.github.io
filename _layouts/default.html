@@ -4,28 +4,13 @@
   
   <body>
 
-    {% include 2-html/header.html %}
+    {% include 2-html/header.html%}
 
     <div class="content">
-      {% if page.date_edited and page.date_edited != "" and page.date_edited != nil %}
-        <div class="page-meta">
-          <div class="page-sub-meta"> 
-            Last updated
-          </div>
-          {{ page.date_edited | date: "%b %-d, %Y" }}
-          <div class="page-sub-meta"> 
-            Originally published
-          </div>
-          {{ page.date | date: "%b %-d, %Y" }}
-        </div>
-      {% else %}
-        <span class="page-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
-      {% endif %}
       <div class="page">
         {{ content }}
       </div>
-
-      {% include 2-html/footer.html%}
     </div>
+    {% include 2-html/footer.html%}
   </body>
 </html>
