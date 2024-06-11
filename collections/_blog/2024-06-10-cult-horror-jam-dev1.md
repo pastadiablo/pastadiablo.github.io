@@ -5,7 +5,7 @@ categories: design devlog gamejam
 date: 2024-06-10 10:30:00
 ---
 
-Me and a friend of mine both decided recently to join one of the many game jams running on itch.io - the [Secret Cult Horror Jam](https://itch.io/jam/the-secret-cult-horror-jam)! We're eaching joining as a solo team, mostly as a way to keep our dev muscles in practice as we are both on the job hunt right now.
+Me and a friend of mine both decided recently to join one of the many game jams running on itch.io - the [Secret Cult Horror Jam](https://itch.io/jam/the-secret-cult-horror-jam)! We're each joining as a solo team, mostly as a way to keep our dev muscles in practice as we are both on the job hunt right now.
 
 We've each been itching to make a horror game recently, and now the opportunity has arisen! This is a weeklong jam, so I decided to take my time and pace myself. I'm not going to be spending insane nights pulling this out - I just wanted an opportunity to build something cool.
 
