@@ -10,3 +10,4 @@ This is the first video devlog for Kaiju, the city-destruction game I mentioned 
 In the meantime, enjoy the video!
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/JTxR1Bl1uBw" frameborder="0" allowfullscreen></iframe>
+<!--more-->
