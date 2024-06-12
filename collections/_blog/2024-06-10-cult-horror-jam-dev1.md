@@ -3,6 +3,10 @@ title: "Cult Horror Jam - Design and Dev1 Build"
 layout: post
 categories: design devlog gamejam
 date: 2024-06-10 10:30:00
+date_edited: 2024-06-12
+image_src: /assets/secret-cult-horror-jam/BaseCultist.gif
+image_alt: An animated pixel-art cultist
+image_title: He's just standing there! Staring! Menacingly!
 ---
 
 Me and a friend of mine both decided recently to join one of the many game jams running on itch.io - the [Secret Cult Horror Jam](https://itch.io/jam/the-secret-cult-horror-jam)! We're each joining as a solo team, mostly as a way to keep our dev muscles in practice as we are both on the job hunt right now.

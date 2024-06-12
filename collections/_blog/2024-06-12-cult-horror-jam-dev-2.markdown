@@ -3,6 +3,9 @@ title: Cult Horror Jam - Re-Design and Dev 2
 layout: post
 categories: design devlog gamejam
 date: 2024-06-12 10:30:00
+image_src: /assets/secret-cult-horror-jam/BaseCultist-Chant.gif
+image_alt: An animated pixel-art cultist
+image_title: Swaying in time with that ritual music.
 ---
 
 One of the things I realized pretty quickly was that the "tug of war" gameplay I had designed didn't really offer many meaningful choices to the player. There was almost always an optimal set of play which was very easy to figure out. Player skill and strategization did not factor in much, meaning there was not much fun to be had. And seeing as my game is less about "horror" in the jumpscare sense, and more about "horror" in the "well look at this fucked up shit going on" sense, I need to rely more heavily on fun than *vibes*. (That said, *vibes* are still super important, and factored heavily into this re-design!)
