@@ -12,6 +12,12 @@ PHEW! I did it! This is the first game jam I've done since, well, I think colleg
 
 [The Summoning](https://pastadiablo.itch.io/the-summoning)
 
+I also had a friend join this jam along with me, working separately on his own project. It's awesome, and you should check it out here:
+
+[Ritual: Blood Summon](https://imstealth.itch.io/ritual)
+
+I think he's gonna take best-in-show. It's easily the scariest of the submitted games that I've played.
+
 <!--more-->
 
 ### Changes
