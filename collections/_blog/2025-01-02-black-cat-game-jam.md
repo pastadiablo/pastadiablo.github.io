@@ -14,4 +14,4 @@ If you take a peak at the [results](https://itch.io/jam/black-cat-jam-1/results)
 
 <!--more-->
 
-You can play it both on [itch.io](https://pastadiablo.itch.io/count_the_voids), and also here, on my website! Here's my jam version of the game, [Alpha1](https://pastadiablo.com/count_the_voids/alpha1)
+You can play it both on [itch.io](https://pastadiablo.itch.io/count_the_voids), and also here, on my website! Here's my jam version of the game, [Alpha1](https://pastadiablo.com/assets/count_the_voids/alpha1)
