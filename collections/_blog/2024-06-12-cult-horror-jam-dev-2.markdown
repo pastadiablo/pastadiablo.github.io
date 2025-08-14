@@ -4,7 +4,7 @@ layout: post
 categories: design devlog gamejam
 date: 2024-06-12 10:30:00
 image_src: /assets/secret-cult-horror-jam/BaseCultist-Chant.gif
-image_alt: An animated pixel-art cultist
+image_alt: An animated pixel-art cultist with a swaying back and forth animation.
 image_title: Swaying in time with that ritual music.
 ---
 

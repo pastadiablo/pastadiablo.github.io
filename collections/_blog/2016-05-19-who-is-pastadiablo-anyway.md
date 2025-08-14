@@ -3,7 +3,7 @@ title: Who is pastadiablo anyway?
 layout: post
 permalink: /
 date: 2016-05-19
-date_edited: 2024-06-05
+date_edited: 2025-01-02
 image_src: /assets/headshot.png
 image_alt: A picture of Dan Magnusson
 image_title: It me.
@@ -21,11 +21,15 @@ In the sale I was acqui-hired by the Timmons Group, a civil engineering firm tha
 
 After that, I briefly worked as a freelance consultant for the Timmons Group before moving on to being a Software Development Engineer II at Amazon. I started out on the Prime Now team, doing native iOS development work. When the call came down from above to switch Prime Now over to React Native so it could be fully integrated into the Amazon app, rather than being its own separate app, I started to look elsewhere in the company.
 
-Listen. I have opinions about React Native, ok? They're strong, they are not unique, and you probably don't really want to hear them. Suffice it to say, I wasn't interested, and I prefer to have SOME interest in my work, you know?
+Listen. I had opinions about React Native, ok? They were strong, they were not unique, and you probably don't really want to hear them. Suffice it to say, I felt it was a mistake and would cause the company more pain than give benefit, and I prefer to provide value rather than detriment, so I left. Looking back, and around at the current market and how ubiquitous React Native has become, if I had the chance to do it again with what I know now, I would have taken the opportunity to learn React Native instead.
 
-Anyway, I switched over to the Last Mile team and spent basically 4 glorious years there, becoming a master of the art of the "Last 100 Yards" of the Amazon delivery process. My team worked on one sub-set of one workflow of the one app that Last Mile drivers used to deliver packages for Amazon. But that's massive corporate work for you! Hyper-specialization and fragmentation of orgs into more and bigger orgs and teams. Still though, the scale of what we were building was massive. The iOS version of the app was getting used by something like 1 million drivers a day! It was wild!
+Anyway, I switched over to the Last Mile team and spent basically 4 years there, becoming a master of the art of the "Last 100 Yards" of the Amazon delivery process. My team worked on one sub-set of one workflow of the one app that Last Mile drivers used to deliver packages for Amazon. But that's massive corporate work for you! Hyper-specialization and fragmentation of orgs into more and bigger orgs and teams. Still though, the scale of what we were building was massive. The iOS version of the app was getting used by something like 1 million drivers a day! It was wild!
 
-Unfortunately, Last Mile as an org had something of a manager turn-over problem. While I was there I had 10 different managers in that 4 year period. After the tenth said he was leaving, I decided it was time to try something new. Something different. So I reached out to an old SDM contact of mine in AWS and tried that out for about a year. It was very different, very challenging, and well, honestly, not my cup of tea. The work was ok, but it was basically focused on Operating Systems and Networking - my two least favorite sub-disciplines. I was attracted to the team by the people, not the work. But because the entire year I was there we were working from home...I really wasn't getting much time working with the people at all. We were all very silo'd in our own projects.
+Unfortunately, Last Mile as an org had something of a manager turn-over problem. While I was there I had 10 different managers in that 4 year period. After the tenth said he was leaving, I decided it was time to try something new. Something different. So I reached out to an old SDM contact of mine in AWS and tried that out for about a year. It was very different, very challenging, and well, honestly, not my cup of tea. 
+
+The work was interesting, but it was basically focused on Operating Systems and Networking - my two least favorite sub-disciplines. I was attracted to the team by the people, not the work. But because the entire year I was there we were working from home...I really wasn't getting much time working with the people at all. We were all very silo'd in our own projects.
+
+Throughout my time at Last Mile my wife, whom I've been with since we were both 15, started to become chronically ill. She ended up needing to leave work and go on disability due to her illness, and for a time, we had no clue what was happening. During 2022 her illness progressed to the point where she was in constant pain and we thought she might die for about 9 months. Luckily a surgery helped fix the acute pain, and she has been slowly improving since, though she will likely never be able to return to work. The progression of her illness, combined with the stress of the pandemic, and the team switch, lead to me experiencing heavy burnout in 2022 to 2023.
 
 In June 2023 I was impacted by the many layoffs the industry faced that year. Since then I've been working hard at recovering from my burnout, and re-kindling my love for software engineering, architecture, and game development. It took a few months of being convinced I wanted to actually open a pizza restaurant before I could even look at code again. But look I did, and boy, it was good to enjoy it once more. I started working on my game Curator, which I'm sure I'll mention in some blog post or another at some point, if I haven't already. 
 

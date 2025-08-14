@@ -4,7 +4,7 @@ layout: post
 categories: design devlog gamejam
 date: 2024-06-17 22:30:00
 image_src: /assets/secret-cult-horror-jam/BaseCultist-Ritual.gif
-image_alt: A cultist dancing
+image_alt: An animated pixel-art cultist with a dancing animation.
 image_title: Pick me, cult-leader-senpai!
 ---
 

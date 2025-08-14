@@ -5,7 +5,7 @@ categories: design devlog gamejam
 date: 2024-06-10 10:30:00
 date_edited: 2024-06-12
 image_src: /assets/secret-cult-horror-jam/BaseCultist.gif
-image_alt: An animated pixel-art cultist
+image_alt: An animated pixel-art cultist performing an idle animation.
 image_title: He's just standing there! Staring! Menacingly!
 ---
 
