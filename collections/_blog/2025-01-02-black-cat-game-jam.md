@@ -2,7 +2,7 @@
 title: Black Cat Game Jam Retrospective
 layout: post
 categories: design devlog gamejam
-date: 2025-02-01
+date: 2024-07-03
 image_src: /assets/count_the_voids/cat.gif
 image_alt: A pixel-art animated black cat sitting and looking at you.
 image_title: Meow, I do say, sir. Meow.

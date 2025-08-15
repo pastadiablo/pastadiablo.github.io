@@ -4,7 +4,8 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1755227190|85049400';
+const CACHE_VERSION = '569b5035fbbfd8f0'; // bumped by pwa_version_bumper
+
 /** @type {string} */
 const CACHE_PREFIX = 'BlackCatJam-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
@@ -164,3 +165,10 @@ self.addEventListener('message', (event) => {
 	});
 });
 
+
+
+// [pwa_version_bumper begin]
+self.addEventListener('install', () => self.skipWaiting());
+self.addEventListener('activate', (evt) => evt.waitUntil(self.clients.claim()));
+// stamp: 569b5035fbbfd8f0
+// [pwa_version_bumper end]
