@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1755160542|5711141698';
+const CACHE_VERSION = '1755225618|70784569382';
 /** @type {string} */
 const CACHE_PREFIX = 'BlackCatJam-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
