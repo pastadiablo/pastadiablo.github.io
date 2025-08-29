@@ -10,7 +10,20 @@ html
 			text-decoration: none
 		&:hover, &:active
 			text-decoration: underline
-			
+
+	a[rel~="external"]::after,
+	a.newtab::after,
+	a[target="_blank"]::after
+		font: var(--fa-font-solid)
+		font-size: 0.6em
+		vertical-align: 0.20em
+		content: "\f08e"
+		margin-left: .35ch
+		line-height: 1
+		display: inline-block
+		-webkit-font-smoothing: antialiased
+		-moz-osx-font-smoothing: grayscale
+
 body	
 	// background: url(../assets/background.png)
 	min-width: 640px

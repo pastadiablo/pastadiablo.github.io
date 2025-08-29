@@ -1,0 +1,13 @@
+---
+title:  "Ash"
+date:   2010-01-01 
+layout: project
+elevator-pitch: "An original old-school JRPG for iOS"
+company: "SRRN Games"
+---
+
+Ash - an original old-school JRPG for iOS - was my first professional development project.  Development took place in between my 3rd and 4th year of college, and the team consisted of 4 intern devs, and the 3 founders of SRRN.  For most of the devs this was our first ever iOS application.  During development I worked heavily on the UI (I extended the default UI framework that we then used for all of the menus), the combat system, and the environment inspection system.  Later on in development I also contributed to the level design by critiquing and cleaning up many of the maps in the game to allow for better play-flow.
+
+The game actually ended up getting tons of great reviews, although it didn't move a vast number of copies or blow up on the app store.  I'm very proud of this game, because I know that it's really fun, but the main thing that's good about it is that it doesn't get in its own way.  Ash knows that its strengths lie mostly in the storytelling and world exploration - as a result it keeps its battle system simplistic and streamlined. 
+
+Of course, it being my first ever shipped title probably helps me be more proud of it as well.  Especially given the inexperience of the team - we turned out a freaking amazing product given our cumulative experience.

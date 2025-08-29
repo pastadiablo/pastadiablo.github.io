@@ -23,3 +23,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from

@@ -1,0 +1,23 @@
+---
+title:  "Ash II: Shadows"
+date:   2011-01-01 
+layout: project
+elevator-pitch: The inevitable sequel to Ash
+company: SRRN Games
+---
+
+Ash II: Shadows, the inevitable sequel to Ash, began heavy development right before I graduated college, and I immediately jumped into the project the week classes ended, before even my graduation ceremony.
+
+Shadows was the first ever game that SRRN made using the Unity Engine - and it shows.  Development on this game was protracted and drawn out, and often delayed due to the growing pains of using a new engine and growing the team at SRRN.
+
+The plan for this game was far more ambitious than Ash, which could have contributed to the problems it had in development.  With almost 4 times the content of Ash planned, we soon determined that in order to meet any sort of reasonable deadline we would have to release episodically.
+
+Initially my role was as the Lead World and Level Designer, however as time went on it became apparent that my skillset still lent itself much more strongly to software engineering as opposed to content creation.  After filling that role for a few months, I transitioned to a more technical role on Minor Lords, before coming back to Ash II as the main Tools and Pipeline developer.  I worked on a number of tools throughout the project - a tool to help manage the various SKUs of the game and how they effected content, the map importing and creation process, and even a Photoshop plugin to batch export spritesheets.
+
+As development continued to stretch out, SRRN was able to reach an agreement with Konami to publish the game.  For SRRN this was a huge deal, as it was one of our first large publisher relationships - as an indie studio it is very difficult to get large publishers to pay attention to your games.  
+
+It was around December 2011 / January 2012 that we began to prepare for the release of Chapter 1.  After releasing Chapter 2, and having Chapter 3 ready for release, development on Ash II was halted before it could be completed due to complications with the publisher.
+
+I can easily say that this game is one of the most disappointing that I've released.  I feel that there are major issues with the some of the combat design decisions, which took large departures from Ash's combat systems, and there are certainly balance and pacing issues regarding the combat.
+
+I also feel that the story in Ash II is less engaging than the story in Ash, although the writing and dialogue is still excellent.  However, the story is slower to start, and feels less engaging (to me personally) than Ash's story.  I feel that it was intended to be more of a long-term epic, which requires more of a leap-of-faith investment on the part of the player early on - of course we never actually completed all of the chapters, so maybe it feels less engaging because there is no completion to the story.  Unfortunately at this point, it's likely that we'll never know.
