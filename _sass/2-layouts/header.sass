@@ -81,15 +81,27 @@ header
 
 			a
 				display: inline-block
-				+size(48px)
+				+size(36px)
 
 			svg
-				+size(48px)
-				clip-path: circle(40% at 50% 50%)
-				background-color: $secondary-color
+				+size(36px)
+				clip-path: circle(50% at 50% 50%)
+				fill: $secondary-color
+				stroke: $secondary-color
+				background-color: #000
 				&:hover
-					color: #000000
-					background-color: $secondary-color-light
+					fill: $secondary-color-light
+					stroke: $secondary-color-light
+			
+			svg > :not(defs)
+				transform-box: view-box
+				transform-origin: 50% 50%
+				transform: scale(.75)
+
+			a[href*="instagram.com"] svg > :not(defs)
+				transform-box: view-box
+				transform-origin: 50% 50%
+				transform: scale(.88)
 
 	hr
 		margin: 0px
