@@ -8,10 +8,11 @@
 
 	<link rel="stylesheet" href="/css/main.css">
 	
-	<script defer src="{{ '/assets/js/external-links.js' | relative_url }}"></script>
-	
-<!-- Font Awesome 7 -->
+	<!-- Font Awesome 7 -->
 	<script src="https://kit.fontawesome.com/fb5279e29a.js" crossorigin="anonymous"></script>
+	
+	<script defer src="{{ '/assets/js/external-links.js' | relative_url }}"></script>
+	<link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}?v={{ site.github.build_revision | default: site.time | date: '%s' }}">
 
 <!-- Built using https://realfavicongenerator.net -->
 	<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon.png">
