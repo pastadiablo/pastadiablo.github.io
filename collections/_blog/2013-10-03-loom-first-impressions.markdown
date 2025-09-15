@@ -1,5 +1,5 @@
 ---
-title: Loom: First Impressions of a Unity3D Developer
+title: "Loom: First Impressions of a Unity3D Developer"
 layout: post
 categories: tech
 date: 2013-10-03
