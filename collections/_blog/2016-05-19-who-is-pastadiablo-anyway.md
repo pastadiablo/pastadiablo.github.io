@@ -17,7 +17,7 @@ These days I work at Lowe's Innovation Labs as a Senior iOS Engineer doing nativ
 
 My real passion however is my game development. It's why I first learned to program after all. I still remember with fondness the command-line pvp tic-tac-toe game I created in C++. I had just started teaching myself C++ about a month before, so, prodigy that I was, I put everything in one function and just copy-pasted logic checks for all the various victory conditions. It was so much more work than it needed to be, but it got me hooked!
 
-My current main project is Count the Voids. The origin of this game was a game jam in the summer of 2024, and you can read my post-mortem of that [here](/blog/black-cat-game-jam/). If you'd like to know more, and/or sign up for beta access, you can subscribe to my [newsletter](/projects/count-the-voids/){:.newtab}.
+My current main project is a hidden-cat counting memory game about adorable eldritch Voids. The origin of this game was a game jam in the summer of 2024, and you can read my post-mortem of that [here](/blog/black-cat-game-jam/). If you'd like to know more, and/or sign up for beta access, you can subscribe to my [newsletter](/projects/voids/){:.newtab}.
 
 You can contact me or download my latest resume at the links in the top right. You can also check out some of my most recent blog posts and read little articles about things I've worked on.  Although, full disclosure, I haven't written many blog posts as of the writing of this "About" page, so, I'm really hoping by the time you read this I've gotten some stuff up there.
 
