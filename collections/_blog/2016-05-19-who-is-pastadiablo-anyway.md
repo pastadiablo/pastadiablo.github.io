@@ -3,13 +3,22 @@ title: Who is pastadiablo anyway?
 layout: post
 permalink: /
 date: 2016-05-19
-date_edited: 2025-01-02
+date_edited: 2025-09-25
 image_src: /assets/headshot.png
 image_alt: A picture of Dan Magnusson
 image_title: It me.
 ---
-Hi there. It's me. I'm pastadiablo. I'm also Dan Magnusson. I've been both for a long time, though the latter about 20 years longer than the former. I'm a software engineer by trade who likes making games in his spare time featuring pixel art that treads the line between cute and creepy.
+
+<div class="ml-embedded" data-form="aNTIkL"></div>
+
+Hi there. It's me. I'm pastadiablo. I'm also Dan Magnusson. I've been both for a long time, though the latter about 13 years longer than the former. 
+
+If you're here about cute pixel 🐈‍⬛Voids🐈‍⬛, peep the embed to the right 👉, or click the link above ☝️. Excuse the color clash, I was in a Blue mood when I last re-did my sites palette, and it just doesn't match my game about adorable eldritch 🐈‍⬛Voids🐈‍⬛ aesthetic. I'm sure I'll update it at some point soon. 
+
+If you want to know more about me, read on.
+
 <!--more-->
+I'm a __software engineer__ by trade who likes making games in his spare time featuring pixel art that treads the line between cute and creepy.
 
 In the past I've worked at almost every size of company / team you can think of throughout the years. For 6 years I worked at Amazon on a number of teams doing software dev. I've also been a part of an indie game studio, worked as an independent contractor, spent time as an associate faculty member teaching grad students mobile development, and even for a while worked at a civil engineering firm! 
 
